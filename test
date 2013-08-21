@@ -1,0 +1,14 @@
+
+
+array = [1,1,3,8,2,4]
+ 
+	array.each do |i|
+		
+		if i%2==0
+	
+	puts i
+		else
+	end
+		
+
+end
